@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> foodie place</title>
+  <link rel="stylesheet" type="text/css" href="restaurent.css">
+</html>
+<body>
+<h1>FOODIE PLACE</h1>
+<nav>
+
+<ul>
+   <a href="a"><li>Home</li></a>
+   <a href="a"><li>Order</li></a>
+   <a href="a"><li>Near</li></a>
+   <a href="a"><li>About</li></a>
+</nav>
+<br><br>
+<section class="items">
+  <div class="item">
+     <img src="https://images.pexels.com/photos/9957549/pexels-photo-9957549.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height="300" width=300'>
+<br><br>
+     <h4>PIZZA</h4>
+     <button>order</button>
+</div>
+
+<div class="item">
+     <img src="https://images.pexels.com/photos/13573666/pexels-photo-13573666.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height="300" width="300">
+     <h4>BURGER</h4>
+     <button>order</button>
+</div>
+<div class="item">
+     <img src="https://images.pexels.com/photos/14737/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height="300" width="300">
+     <h4>PASTA</h4>
+     <button>order</button>
+</div>
+<div class="item">
+     <img src="https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height="300" width="300"><br><br>
+     <h4>CHICKEN BIRIYANI</h4>
+     <button>order</button>
+</div>
+<div class="item">
+     <img src="https://media.istockphoto.com/id/888366454/photo/chicken-wrap.jpg?s=612x612&w=0&k=20&c=smy2oTsWnDDDEaS_Rkn6Jj-7KXll4FlO_aYR9BoKcu0=" height="300" width="300"><br><br>
+     <h4>SHAWARMA</h4>
+     <button>order</button>
+</div>
+<div class="item">
+     <img src="https://en-media.thebetterindia.com/uploads/2022/08/294156779_1082267416022212_8006411537588067133_n-1_11zon-1660981126.jpg" height="300" width="300">
+     <h4> CHOLA POORI</h4>
+     <button>order</button>
+</div>
+<div class="item">
+     <img src="https://images.pexels.com/photos/96974/pexels-photo-96974.jpeg?auto=compress&cs=tinysrgb&w=600" height="300" width="300">
+     <h4> LEMON JUICE</h4>
+     <button>order</button>
+</div>
+<div class="item">
+     <img src="https://images.pexels.com/photos/2615323/pexels-photo-2615323.jpeg?auto=compress&cs=tinysrgb&w=600" height="300" width="300">
+     <h4> COLD COFFEE</h4>
+     <button>order</button>
+</div>
+<div class="item">
+     <img src="https://media.istockphoto.com/id/1397944618/photo/curd-samosa-chaat.jpg?b=1&s=612x612&w=0&k=20&c=tnFDNUJV16ohK6eeKgZDY4aHZtS3f4Kk9C9MZmzyYAI=" height="300" width="300">
+     <h4>  SPICY SAMOSA</h4>
+     <button>order</button><br><br>
+<h2><center><a href="d:/ice.html " >NEXT</center><a/></h2>
+</div>
+</ul>
+</nav>
+</body>
+</html>
